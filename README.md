@@ -9,16 +9,16 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 
 ## Shortcuts
 
-* Beginner Swift programming tutorials
-* SwiftUI tutorials
-* Combine tutorials
-* Catalyst tutorials
-* General resources
-  * Swift Blogs
-  * Swift Newsletters
-  * YouTube Channels
-  * Twitter
-  * Podcasts
+* [Beginner Swift programming tutorials](#beginner-swift-programming-tutorials)
+* [SwiftUI tutorials](#swiftui-tutorials)
+* [Combine tutorials](#combine-tutorials)
+* [Catalyst tutorials](#catalyst-tutorials)
+* [General resources](#general-resources)
+  * [Swift Blogs](#swift-blogs)
+  * [Swift Newsletters](#swift-newsletters)
+  * [YouTube Channels](#youtube-channels)
+  * [Twitter](#twitter)
+  * [Podcasts](#podcasts)
 
 
 
