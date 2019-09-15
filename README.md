@@ -85,7 +85,9 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 
 ### Swift Blogs
 
-* [Swift.org - https://swift.org/](https://swift.org/)
+* [Swift.org blog - https://swift.org/](https://swift.org/blog)
+* [Swift.org Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [Swift.org Language Reference](https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html)
 * [Swift by Sundell - https://www.swiftbysundell.com/](https://www.swiftbysundell.com/) 
 * [avanderlee - https://www.avanderlee.com/](https://www.avanderlee.com/)
 * [Ray Wenderlich - https://www.raywenderlich.com/](https://www.raywenderlich.com/)
