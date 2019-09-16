@@ -44,6 +44,7 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 * [Create a slide out menu with SwiftUI](https://programmingwithswift.com/create-side-menu-with-swiftui/)
 * [Build a stopwatch app with SwiftUI](https://programmingwithswift.com/build-a-stopwatch-app-with-swiftui/)
 * [SwiftUI Lottie Animations and Swift Package Manager](https://www.youtube.com/watch?v=fVehE3Jf7K0)
+* [Custom ViewModifiers in SwiftUI](https://programmingwithswift.com/viewmodifier-in-swiftui/)
 
 ### Videos
 
