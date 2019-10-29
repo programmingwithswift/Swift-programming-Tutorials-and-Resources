@@ -45,6 +45,9 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 * [Build a stopwatch app with SwiftUI](https://programmingwithswift.com/build-a-stopwatch-app-with-swiftui/)
 * [SwiftUI Lottie Animations and Swift Package Manager](https://www.youtube.com/watch?v=fVehE3Jf7K0)
 * [Custom ViewModifiers in SwiftUI](https://programmingwithswift.com/viewmodifier-in-swiftui/)
+* [Move List item with SwiftUI](https://programmingwithswift.com/move-list-item-with-swiftui/)
+* [Delete List item with SwiftUI](https://programmingwithswift.com/delete-list-item-with-swiftui/)
+* [SwiftUI Form tutorial for beginners](https://programmingwithswift.com/swiftui-form-beginners-guide/)
 
 ### Videos
 
