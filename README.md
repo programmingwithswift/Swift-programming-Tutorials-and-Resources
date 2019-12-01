@@ -71,6 +71,10 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 
 ### Blogs
 * [Problem Solving with Combine Swift ](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77)
+* [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
+* [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/)
+* [Combine debugging using operators in Swift](https://www.avanderlee.com/debugging/combine-swift/)
+* [Reducers in Swift](https://swiftbysundell.com/articles/reducers-in-swift/)
 
 
 ### Videos
