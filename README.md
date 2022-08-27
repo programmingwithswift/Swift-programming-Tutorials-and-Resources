@@ -34,6 +34,7 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 
 * [Building forms with SwiftUI](https://mecid.github.io/2019/06/19/building-forms-with-swiftui/)
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
+*  [Create Hamburger in SwiftUI](https://janeshswift.com/ios/swiftui/how-to-create-hamburger-menu-in-swiftui/)
 * [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/)
 * [SwiftUI getting Started](https://www.raywenderlich.com/3715234-swiftui-getting-started)
 * [The power of Environment in SwiftUI](https://mecid.github.io/2019/08/21/the-power-of-environment-in-swiftui/)
@@ -71,6 +72,7 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 
 ### Blogs
 * [Problem Solving with Combine Swift ](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77)
+* [SwiftUI with Combine Easy Tutorial](https://janeshswift.com/ios/swiftui/how-to-use-datataskpublisher-combine-framework/)
 * [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
 * [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/)
 * [Combine debugging using operators in Swift](https://www.avanderlee.com/debugging/combine-swift/)
@@ -97,6 +99,7 @@ I run [ProgrammingWithSwift](https://programmingwithswift.com), and I will be ad
 * [Swift.org Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 * [Swift.org Language Reference](https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html)
 * [Swift by Sundell - https://www.swiftbysundell.com/](https://www.swiftbysundell.com/) 
+* [Swift Tutorial][https://janeshswift.com]
 * [avanderlee - https://www.avanderlee.com/](https://www.avanderlee.com/)
 * [Ray Wenderlich - https://www.raywenderlich.com/](https://www.raywenderlich.com/)
 * [App Coda - https://www.appcoda.com/](https://www.appcoda.com/)
